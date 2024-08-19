@@ -8,7 +8,7 @@ The Scientific Calculator is a versatile and powerful tool designed for various 
 
 For a detailed overview and demonstration of the calculator's features, you can watch the video uploaded at the following link:
 
-[![**Watch the Video**](Scientific-Calculator/APP/calculator/Calculator.jpg)](https://drive.google.com/file/d/1Ymioc5mojMx6SS5e9GD8UncNIEcvStd6/view?usp=drive_link)
+[![**Watch the Video**](https://github.com/om4rrr/Scientific-Calculator/blob/main/APP/calculator/Calculator.jpg)](https://drive.google.com/file/d/1Ymioc5mojMx6SS5e9GD8UncNIEcvStd6/view?usp=drive_link)
 
 ## Features
 
