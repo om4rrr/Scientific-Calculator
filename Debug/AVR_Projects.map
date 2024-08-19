@@ -1,0 +1,1042 @@
+Archive member included because of file (symbol)
+
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./APP/calculator/calculator.o (__udivmodsi4)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./HAL/LCD/LCD_prog.o (__divmodsi4)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./HAL/LCD/LCD_prog.o (__do_copy_data)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./HAL/LCD/LCD_prog.o (__do_clear_bss)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                              ./HAL/LCD/LCD_prog.o (__lshrdi3)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                              ./HAL/LCD/LCD_prog.o (__ashldi3)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./HAL/LCD/LCD_prog.o (__fixunssfsi)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              ./SERVICE/Math_Functions.o (__subsf3)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./SERVICE/Math_Functions.o (__mulsf3)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./SERVICE/Math_Functions.o (__divsf3)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+                              ./HAL/LCD/LCD_prog.o (__eqsf2)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+                              ./SERVICE/Math_Functions.o (__nesf2)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./SERVICE/Math_Functions.o (__gtsf2)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              ./SERVICE/Math_Functions.o (__gesf2)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./SERVICE/Math_Functions.o (__ltsf2)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+                              ./SERVICE/Math_Functions.o (__lesf2)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                              ./SERVICE/Math_Functions.o (__floatsisf)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              ./HAL/LCD/LCD_prog.o (__fixsfsi)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./HAL/LCD/LCD_prog.o (__floatunsisf)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o) (__fpcmp_parts_f)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                              ./HAL/LCD/LCD_prog.o (strlen)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fma.o)
+                              ./SERVICE/Math_Functions.o (fma)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fma.o) (__fp_round)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fma.o) (__mulsf3x)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+                              ./SERVICE/Math_Functions.o (sqrt)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fma.o) (__addsf3x)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o) (__fp_inf)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o) (__fp_mpack)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o) (__fp_nan)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o) (__fp_norm2)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o) (__fp_pscA)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o) (__fp_pscB)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o) (__fp_split3)
+c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                              c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o) (__fp_zero)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./SERVICE/Math_Functions.o
+LOAD ./MCAL/DIO/DIO_prog.o
+LOAD ./HAL/LCD/LCD_prog.o
+LOAD ./HAL/Keypad/Keypad_prog.o
+LOAD ./APP/calculator/calculator.o
+LOAD ./APP/main.o
+LOAD c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x7ce8
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_11
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./SERVICE/Math_Functions.o
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO_prog.o
+ .text          0x00000092        0x0 ./HAL/LCD/LCD_prog.o
+ .text          0x00000092        0x0 ./HAL/Keypad/Keypad_prog.o
+ .text          0x00000092        0x0 ./APP/calculator/calculator.o
+ .text          0x00000092        0x0 ./APP/main.o
+ .text          0x00000092        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000092        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000092        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0xfe c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                0x00000092                __lshrdi3
+ .text          0x00000190       0xfe c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                0x00000190                __ashldi3
+ .text          0x0000028e       0x58 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x0000028e                __fixunssfsi
+ .text          0x000002e6      0x354 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x0000057e                __subsf3
+                0x000005e0                __addsf3
+ .text          0x0000063a      0x1f4 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000063a                __mulsf3
+ .text          0x0000082e      0x158 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x0000082e                __divsf3
+ .text          0x00000986       0x60 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+                0x00000986                __eqsf2
+ .text          0x000009e6       0x60 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+                0x000009e6                __nesf2
+ .text          0x00000a46       0x60 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x00000a46                __gtsf2
+ .text          0x00000aa6       0x60 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00000aa6                __gesf2
+ .text          0x00000b06       0x60 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x00000b06                __ltsf2
+ .text          0x00000b66       0x60 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+                0x00000b66                __lesf2
+ .text          0x00000bc6       0xbc c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                0x00000bc6                __floatsisf
+ .text          0x00000c82       0xa8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x00000c82                __fixsfsi
+ .text          0x00000d2a        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000d2a       0xf2 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000d2a                __floatunsisf
+ .text          0x00000e1c        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000e1c        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000e1c       0x9e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000e1c                __clzsi2
+ .text          0x00000eba      0x1aa c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000eba                __pack_f
+ .text          0x00001064       0xf0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00001064                __unpack_f
+ .text          0x00001154       0xb2 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00001154                __fpcmp_parts_f
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fma.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ .text          0x00001206        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                0x00001206                . = ALIGN (0x2)
+ *(.text.*)
+ .text._pow     0x00001206      0x132 ./SERVICE/Math_Functions.o
+                0x00001206                _pow
+ .text._cos     0x00001338      0x334 ./SERVICE/Math_Functions.o
+                0x00001338                _cos
+ .text._sin     0x0000166c       0x4c ./SERVICE/Math_Functions.o
+                0x0000166c                _sin
+ .text._tan     0x000016b8       0x6a ./SERVICE/Math_Functions.o
+                0x000016b8                _tan
+ .text.expo     0x00001722      0x1cc ./SERVICE/Math_Functions.o
+                0x00001722                expo
+ .text._sqrt    0x000018ee      0x128 ./SERVICE/Math_Functions.o
+                0x000018ee                _sqrt
+ .text.Dec2Hex  0x00001a16       0xa0 ./SERVICE/Math_Functions.o
+                0x00001a16                Dec2Hex
+ .text.Dec2Oct  0x00001ab6       0x6e ./SERVICE/Math_Functions.o
+                0x00001ab6                Dec2Oct
+ .text.Dec2Bin  0x00001b24       0x66 ./SERVICE/Math_Functions.o
+                0x00001b24                Dec2Bin
+ .text.Hex2Dec  0x00001b8a       0xa2 ./SERVICE/Math_Functions.o
+                0x00001b8a                Hex2Dec
+ .text.Oct2Dec  0x00001c2c       0x6a ./SERVICE/Math_Functions.o
+                0x00001c2c                Oct2Dec
+ .text.Bin2Dec  0x00001c96       0x62 ./SERVICE/Math_Functions.o
+                0x00001c96                Bin2Dec
+ .text._sinh    0x00001cf8       0x80 ./SERVICE/Math_Functions.o
+                0x00001cf8                _sinh
+ .text._cosh    0x00001d78       0x80 ./SERVICE/Math_Functions.o
+                0x00001d78                _cosh
+ .text._tanh    0x00001df8       0x6a ./SERVICE/Math_Functions.o
+                0x00001df8                _tanh
+ .text._atan    0x00001e62      0x646 ./SERVICE/Math_Functions.o
+                0x00001e62                _atan
+ .text._asin    0x000024a8       0x7a ./SERVICE/Math_Functions.o
+                0x000024a8                _asin
+ .text._acos    0x00002522       0x4a ./SERVICE/Math_Functions.o
+                0x00002522                _acos
+ .text.DIO_enuInit
+                0x0000256c       0x56 ./MCAL/DIO/DIO_prog.o
+                0x0000256c                DIO_enuInit
+ .text.DIO_enuSetPinDirection
+                0x000025c2      0x1d8 ./MCAL/DIO/DIO_prog.o
+                0x000025c2                DIO_enuSetPinDirection
+ .text.DIO_enuSetPinValue
+                0x0000279a      0x1d8 ./MCAL/DIO/DIO_prog.o
+                0x0000279a                DIO_enuSetPinValue
+ .text.DIO_enuGetPinValue
+                0x00002972      0x13c ./MCAL/DIO/DIO_prog.o
+                0x00002972                DIO_enuGetPinValue
+ .text.DIO_enuTogPin
+                0x00002aae      0x114 ./MCAL/DIO/DIO_prog.o
+                0x00002aae                DIO_enuTogPin
+ .text.LCD_enuInit
+                0x00002bc2      0xe62 ./HAL/LCD/LCD_prog.o
+                0x00002bc2                LCD_enuInit
+ .text.LCD_enuLatch
+                0x00003a24      0x61a ./HAL/LCD/LCD_prog.o
+ .text.LCD_enuDisplayString
+                0x0000403e       0x82 ./HAL/LCD/LCD_prog.o
+                0x0000403e                LCD_enuDisplayString
+ .text.LCD_enuDisplayChar
+                0x000040c0       0x32 ./HAL/LCD/LCD_prog.o
+                0x000040c0                LCD_enuDisplayChar
+ .text.LCD_enuClearDisplay
+                0x000040f2       0x20 ./HAL/LCD/LCD_prog.o
+                0x000040f2                LCD_enuClearDisplay
+ .text.LCD_enuSendCommand
+                0x00004112       0x32 ./HAL/LCD/LCD_prog.o
+                0x00004112                LCD_enuSendCommand
+ .text.LCD_inenuSendCommand
+                0x00004144       0x32 ./HAL/LCD/LCD_prog.o
+ .text.LCD_enuSendExtraChar
+                0x00004176       0x98 ./HAL/LCD/LCD_prog.o
+                0x00004176                LCD_enuSendExtraChar
+ .text.LCD_enuGoto
+                0x0000420e       0x52 ./HAL/LCD/LCD_prog.o
+                0x0000420e                LCD_enuGoto
+ .text.LCD_enuWriteNumber
+                0x00004260      0x338 ./HAL/LCD/LCD_prog.o
+                0x00004260                LCD_enuWriteNumber
+ .text.KPD_enuInit
+                0x00004598      0xab4 ./HAL/Keypad/Keypad_prog.o
+                0x00004598                KPD_enuInit
+ .text.KPD_enuGetPressedKey
+                0x0000504c      0x1a4 ./HAL/Keypad/Keypad_prog.o
+                0x0000504c                KPD_enuGetPressedKey
+ .text.Local_voidCalCulator
+                0x000051f0      0x454 ./APP/calculator/calculator.o
+                0x000051f0                Local_voidCalCulator
+ .text.Local_voidShiftText
+                0x00005644       0xf2 ./APP/calculator/calculator.o
+                0x00005644                Local_voidShiftText
+ .text.Local_ClearDiplayedText
+                0x00005736       0x94 ./APP/calculator/calculator.o
+                0x00005736                Local_ClearDiplayedText
+ .text.Local_voidDisplayOutput
+                0x000057ca      0x718 ./APP/calculator/calculator.o
+                0x000057ca                Local_voidDisplayOutput
+ .text.Local_voidNumberRepresentation
+                0x00005ee2      0x78e ./APP/calculator/calculator.o
+                0x00005ee2                Local_voidNumberRepresentation
+ .text.Local_voidCalculateFunctions
+                0x00006670      0xa52 ./APP/calculator/calculator.o
+                0x00006670                Local_voidCalculateFunctions
+ .text.Local_voidDisplayFunction
+                0x000070c2      0x150 ./APP/calculator/calculator.o
+                0x000070c2                Local_voidDisplayFunction
+ .text.Local_voidGetOperand
+                0x00007212      0x39a ./APP/calculator/calculator.o
+                0x00007212                Local_voidGetOperand
+ .text.Local_voidClrArray
+                0x000075ac       0x3e ./APP/calculator/calculator.o
+                0x000075ac                Local_voidClrArray
+ .text.Local_voidMathError
+                0x000075ea      0x12c ./APP/calculator/calculator.o
+                0x000075ea                Local_voidMathError
+ .text.Local_voidSyntaxError
+                0x00007716      0x148 ./APP/calculator/calculator.o
+                0x00007716                Local_voidSyntaxError
+ .text.Local_SetAnswer
+                0x0000785e       0x98 ./APP/calculator/calculator.o
+                0x0000785e                Local_SetAnswer
+ .text.main     0x000078f6       0x16 ./APP/main.o
+                0x000078f6                main
+ .text.libgcc   0x0000790c       0x44 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000790c                __udivmodsi4
+ .text.libgcc   0x00007950       0x36 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x00007950                __divmodsi4
+ .text.libgcc   0x00007986        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00007986        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00007986        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00007986       0x38 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00007986                __prologue_saves__
+ .text.libgcc   0x000079be       0x36 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x000079be                __epilogue_restores__
+ .text.avr-libc
+                0x000079f4       0x12 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x000079f4                strlen
+ .text.avr-libc.fplib
+                0x00007a06        0xc c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fma.o)
+                0x00007a06                fma
+ .text.avr-libc.fplib
+                0x00007a12       0x22 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+                0x00007a12                __fp_round
+ .text.avr-libc.fplib
+                0x00007a34       0xc2 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+                0x00007a4c                __mulsf3_pse
+                0x00007a48                __mulsf3x
+ .text.avr-libc.fplib
+                0x00007af6       0x84 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+                0x00007afe                sqrt
+ .text.avr-libc.fplib
+                0x00007b7a       0xc0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+                0x00007b94                __addsf3x
+ .text.avr-libc.fplib
+                0x00007c3a        0xc c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+                0x00007c3a                __fp_inf
+ .text.avr-libc.fplib
+                0x00007c46       0x1c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+                0x00007c4a                __fp_mpack_finite
+                0x00007c46                __fp_mpack
+ .text.avr-libc.fplib
+                0x00007c62        0x6 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+                0x00007c62                __fp_nan
+ .text.avr-libc.fplib
+                0x00007c68        0xe c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+                0x00007c68                __fp_norm2
+ .text.avr-libc.fplib
+                0x00007c76        0xe c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+                0x00007c76                __fp_pscA
+ .text.avr-libc.fplib
+                0x00007c84        0xe c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+                0x00007c84                __fp_pscB
+ .text.avr-libc.fplib
+                0x00007c92       0x44 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+                0x00007c92                __fp_split3
+                0x00007ca2                __fp_splitA
+ .text.avr-libc.fplib
+                0x00007cd6        0xe c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                0x00007cd6                __fp_zero
+                0x00007cd8                __fp_szero
+                0x00007ce4                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00007ce4        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00007ce4                exit
+                0x00007ce4                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00007ce4        0x4 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00007ce8                _etext = .
+
+.data           0x00800060      0x1d2 load address 0x00007ce8
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./SERVICE/Math_Functions.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO_prog.o
+ .data          0x00800060        0x0 ./HAL/LCD/LCD_prog.o
+ .data          0x00800060        0x0 ./HAL/Keypad/Keypad_prog.o
+ .data          0x00800060       0x6b ./APP/calculator/calculator.o
+ .data          0x008000cb        0x0 ./APP/main.o
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x008000cb        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x008000cb        0x8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x008000cb                __thenan_sf
+ .data          0x008000d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x008000d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x008000d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x008000d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x008000d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x008000d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x008000d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x008000d3      0x100 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x008000d3                __clz_tab
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fma.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ .data          0x008001d3        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ *(.data*)
+ .data.Local_Au8Digits.1724
+                0x008001d3       0x10 ./HAL/LCD/LCD_prog.o
+ .data.Local_Au8Columns.1321
+                0x008001e3       0x14 ./HAL/Keypad/Keypad_prog.o
+ .data.Local_Au8Rows.1320
+                0x008001f7        0x8 ./HAL/Keypad/Keypad_prog.o
+ .data.Local_Au8KPD.1319
+                0x008001ff       0x28 ./HAL/Keypad/Keypad_prog.o
+ .data.Global_s8Num_Iterator
+                0x00800227        0x1 ./APP/calculator/calculator.o
+ .data.Global_s8IterOfNumberRepres
+                0x00800228        0x1 ./APP/calculator/calculator.o
+ .data.Local_u8DotCalc
+                0x00800229        0x4 ./APP/calculator/calculator.o
+ .data.Local_f32Mode
+                0x0080022d        0x4 ./APP/calculator/calculator.o
+ .data.Global_u8PressedKey
+                0x00800231        0x1 ./APP/calculator/calculator.o
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800232                . = ALIGN (0x2)
+                0x00800232                _edata = .
+                0x00800232                PROVIDE (__data_end, .)
+
+.bss            0x00800232       0x60
+                0x00800232                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800232        0x0 ./SERVICE/Math_Functions.o
+ .bss           0x00800232        0x0 ./MCAL/DIO/DIO_prog.o
+ .bss           0x00800232        0x0 ./HAL/LCD/LCD_prog.o
+ .bss           0x00800232        0x0 ./HAL/Keypad/Keypad_prog.o
+ .bss           0x00800232        0x0 ./APP/calculator/calculator.o
+ .bss           0x00800232        0x0 ./APP/main.o
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fma.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_round.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsf3x.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sqrt.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(addsf3x.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_inf.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_norm2.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscA.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_pscB.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ .bss           0x00800232        0x0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ *(.bss*)
+ .bss.Global_u8Flag
+                0x00800232        0x1 ./HAL/LCD/LCD_prog.o
+                0x00800232                Global_u8Flag
+ .bss.Local_u64Check.1227
+                0x00800233        0x8 ./HAL/Keypad/Keypad_prog.o
+ .bss.Local_u8Iterator2.1323
+                0x0080023b        0x1 ./HAL/Keypad/Keypad_prog.o
+ .bss.Local_u8Iterator1.1322
+                0x0080023c        0x1 ./HAL/Keypad/Keypad_prog.o
+ .bss.Global_u16Flags
+                0x0080023d        0x2 ./APP/calculator/calculator.o
+ .bss.Global_s8Op_Iterator
+                0x0080023f        0x1 ./APP/calculator/calculator.o
+ .bss.Global_u8ShiftIter
+                0x00800240        0x1 ./APP/calculator/calculator.o
+ .bss.Global_u8CountingLeftShift
+                0x00800241        0x1 ./APP/calculator/calculator.o
+ .bss.Global_u8TypeOfNumber
+                0x00800242        0x1 ./APP/calculator/calculator.o
+ .bss.Local_f32ANS
+                0x00800243        0x4 ./APP/calculator/calculator.o
+ .bss.Global_Af32Operands
+                0x00800247       0x30 ./APP/calculator/calculator.o
+ .bss.Global_u8Operators
+                0x00800277        0xb ./APP/calculator/calculator.o
+ .bss.Global_Au8NumberRepresentation
+                0x00800282       0x10 ./APP/calculator/calculator.o
+ *(COMMON)
+                0x00800292                PROVIDE (__bss_end, .)
+                0x00007ce8                __data_load_start = LOADADDR (.data)
+                0x00007eba                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800292        0x0
+                0x00800292                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800292                PROVIDE (__noinit_end, .)
+                0x00800292                _end = .
+                0x00800292                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x429c
+ *(.stab)
+ .stab          0x00000000      0xcfc ./SERVICE/Math_Functions.o
+ .stab          0x00000cfc      0x66c ./MCAL/DIO/DIO_prog.o
+                                0x678 (size before relaxing)
+ .stab          0x00001368     0x123c ./HAL/LCD/LCD_prog.o
+                               0x1248 (size before relaxing)
+ .stab          0x000025a4      0x570 ./HAL/Keypad/Keypad_prog.o
+                                0x57c (size before relaxing)
+ .stab          0x00002b14     0x15a8 ./APP/calculator/calculator.o
+                               0x1740 (size before relaxing)
+ .stab          0x000040bc      0x1e0 ./APP/main.o
+                                0x1ec (size before relaxing)
+
+.stabstr        0x00000000     0x1797
+ *(.stabstr)
+ .stabstr       0x00000000     0x1797 ./SERVICE/Math_Functions.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x260
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x00000020       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x00000040       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000060       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+ .debug_aranges
+                0x00000100       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000120       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x00000140       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x00000160       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_aranges
+                0x00000180       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x000001a0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x000001c0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x000001e0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000200       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000220       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000240       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x2ae
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_pubnames
+                0x00000020       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_pubnames
+                0x00000040       0x23 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000063       0x2c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000008f       0x1f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x000000ae       0x1f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x000000cd       0x1e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_pubnames
+                0x000000eb       0x1e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+ .debug_pubnames
+                0x00000109       0x1e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x00000127       0x1e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x00000145       0x1e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x00000163       0x1e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_pubnames
+                0x00000181       0x22 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x000001a3       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x000001c3       0x22 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x000001e5       0x24 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x00000209       0x1f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x00000228       0x1f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000247       0x21 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x00000268       0x26 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x0000028e       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x308d
+ *(.debug_info)
+ .debug_info    0x00000000      0x17f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_info    0x0000017f      0x17f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_info    0x000002fe       0xb1 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000003af      0x47a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x00000829      0x485 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x00000cae      0x3fc c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x000010aa      0x27f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_info    0x00001329      0x27f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+ .debug_info    0x000015a8      0x27f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x00001827      0x27f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00001aa6      0x27f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001d25      0x27f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_info    0x00001fa4      0x207 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_info    0x000021ab      0x2b0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x0000245b      0x12c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00002587      0x206 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x0000278d      0x117 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x000028a4      0x2df c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00002b83      0x251 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002dd4      0x210 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002fe4       0xa9 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1ab8
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xee c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x000000ee       0xee c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x000001dc       0x5d c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x00000239      0x1ea c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000423      0x21b c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x0000063e      0x216 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000854      0x15a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_abbrev  0x000009ae      0x15a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+ .debug_abbrev  0x00000b08      0x15a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x00000c62      0x15a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000dbc      0x15a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000f16      0x15a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_abbrev  0x00001070      0x148 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x000011b8      0x17f c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00001337       0xad c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x000013e4      0x157 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x0000153b       0xc4 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x000015ff      0x1c0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x000017bf      0x154 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00001913      0x13b c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x00001a4e       0x6a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x1732
+ *(.debug_line)
+ .debug_line    0x00000000       0xd7 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_line    0x000000d7       0xd7 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_line    0x000001ae       0xa7 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x00000255      0x2af c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000504      0x239 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000073d      0x1d5 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000912       0xd3 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_line    0x000009e5       0xd3 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+ .debug_line    0x00000ab8       0xd3 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000b8b       0xd3 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000c5e       0xd3 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x00000d31       0xd3 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_line    0x00000e04      0x135 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_line    0x00000f39      0x109 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00001042       0x90 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000010d2      0x133 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00001205       0xa5 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x000012aa      0x18a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00001434      0x14b c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x0000157f      0x137 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x000016b6       0x7c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x280
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_frame   0x00000020       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_frame   0x00000040       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000060       0x40 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x000000a0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x000000c0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000e0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_frame   0x00000100       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+ .debug_frame   0x00000120       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x00000140       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x00000160       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000180       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_frame   0x000001a0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x000001c0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000001e0       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000200       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000220       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000240       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000260       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x364
+ *(.debug_str)
+ .debug_str     0x00000000       0xe6 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                                0x131 (size before relaxing)
+ .debug_str     0x000000e6        0xa c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                                0x131 (size before relaxing)
+ .debug_str     0x000000f0       0x14 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x00000104      0x14d c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x00000251       0x27 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000278       0x35 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x000002ad        0x8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x000002b5        0x8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x000002bd        0x8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x000002c5        0x8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x000002cd        0x8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x000002d5        0x8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x000002dd       0x1e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                                0x17b (size before relaxing)
+ .debug_str     0x000002fb        0xa c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000305       0x14 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x00000319       0x20 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x00000339       0x10 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000349        0xb c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x00000354       0x10 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0xcbe
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xf8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_loc     0x000000f8       0xf8 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_loc     0x000001f0       0x34 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000224      0x32a c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000054e      0x104 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000652       0xc0 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000712       0x3c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_eq_sf.o)
+ .debug_loc     0x0000074e       0x3c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ne_sf.o)
+ .debug_loc     0x0000078a       0x3c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x000007c6       0x3c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x00000802       0x3c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x0000083e       0x3c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_le_sf.o)
+ .debug_loc     0x0000087a       0xac c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x00000926       0x7e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x000009a4       0x4c c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x000009f0       0x94 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000a84      0x13e c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000bc2       0xac c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00000c6e       0x50 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(AVR_Projects.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 c:/users/dell/onedrive/desktop/avr_nti_videos/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
